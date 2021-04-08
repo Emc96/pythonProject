@@ -7,11 +7,16 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}') # Press ⌘F8 to toggle the breakpoint.
     print('This is my first use of pycharm')
-
+def mathsfun():
+    equation1 = 2+2
+    equation2 = equation1*3
+    answer = equation1 + equation2
+    return answer
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print(mathsfun())
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
