@@ -19,5 +19,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print(mathsfun())
 
-
+#this is a line of code is made from visual studio code 
+print("Hello from studio code")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
